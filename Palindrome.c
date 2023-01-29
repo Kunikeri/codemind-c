@@ -10,11 +10,11 @@ int main()
         q=q/10;
         s=s*10+r;
     }
-    if(n==s)
+    if(s==n)
     {
         printf("True");
     }
-    else 
+    else
     {
         printf("False");
     }
